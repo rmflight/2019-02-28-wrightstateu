@@ -99,7 +99,7 @@ and our administrator may contact you if we need any extra information.</h4>
   or
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
 </p>
-<p>Also note, that Day 1 will be in Rm 101 of the [Neuroscience Engineering Collaboration building](https://www.google.com/maps/place/Neuroscience+Engineering+Collaboration+Building/@39.7802763,-84.0636871,342m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0x9afc9fcfc1943290!2sNeuroscience+Engineering+Collaboration+Building!8m2!3d39.7802221!4d-84.0629249!3m4!1s0x0:0x9afc9fcfc1943290!8m2!3d39.7802221!4d-84.0629249?hl=en-US), while Day 2 will be in Rm 120 of the [White Hall McGee Auditorium](https://www.google.com/maps/place/Wright+State+University+Boonshoft+School+of+Medicine/@39.7803281,-84.0627279,342m/data=!3m2!1e3!4b1!4m5!3m4!1s0x88409cf97cb47823:0x2d86c0a21d9f709e!8m2!3d39.7803281!4d-84.0616384?hl=en-US).
+<p>Also note, that Day 1 will be in Rm 101 of the <a href="//https://www.google.com/maps/place/Neuroscience+Engineering+Collaboration+Building/@39.7802763,-84.0636871,342m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0x9afc9fcfc1943290!2sNeuroscience+Engineering+Collaboration+Building!8m2!3d39.7802221!4d-84.0629249!3m4!1s0x0:0x9afc9fcfc1943290!8m2!3d39.7802221!4d-84.0629249?hl=en-US">Neuroscience Engineering Collaboration Building</a>, while Day 2 will be in Rm 120 of the <a href="//https://www.google.com/maps/place/Wright+State+University+Boonshoft+School+of+Medicine/@39.7803281,-84.0627279,342m/data=!3m2!1e3!4b1!4m5!3m4!1s0x88409cf97cb47823:0x2d86c0a21d9f709e!8m2!3d39.7803281!4d-84.0616384?hl=en-US">White Hall McGee Auditorium</a>.
   </p>
 {% endif %}
 
