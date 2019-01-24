@@ -3,7 +3,7 @@ layout: workshop      # DON'T CHANGE THIS.
 carpentry: "dc"    # what kind of Carpentry (must be either "lc" or "dc" or "swc").  
                       # Be sure to update the Carpentry type in _config.yml as well.  
 venue: "Wright State University"        # brief name of host site without address (e.g., "Euphoric State University")
-address: "Rm 101, Neuroscience Engineering Collaboration (NEC) Auditorium, Wright State University, 3640 Col. Glenn Hwy, Dayton, OH 45435"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+address: "Wright State University, 3640 Col. Glenn Hwy, Dayton, OH 45435"      # full street address of workshop (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
 country: "us"      # lowercase two-letter ISO country code such as "fr" (see https://en.wikipedia.org/wiki/ISO_3166-1)
 language: "en"     # lowercase two-letter ISO language code such as "fr" (see https://en.wikipedia.org/wiki/ISO_639-1)
 latlng: "39.781158,-84.063072"       # decimal latitude and longitude of workshop venue (e.g., "41.7901128,-87.6007318" - use https://www.latlong.net/)
@@ -99,7 +99,9 @@ and our administrator may contact you if we need any extra information.</h4>
   or
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
 </p>
-<p>Also note, that Day 1 will be in Rm 101 of the <a href="//https://www.google.com/maps/place/Neuroscience+Engineering+Collaboration+Building/@39.7802763,-84.0636871,342m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0x9afc9fcfc1943290!2sNeuroscience+Engineering+Collaboration+Building!8m2!3d39.7802221!4d-84.0629249!3m4!1s0x0:0x9afc9fcfc1943290!8m2!3d39.7802221!4d-84.0629249?hl=en-US">Neuroscience Engineering Collaboration Building</a>, while Day 2 will be in Rm 120 of the <a href="//https://www.google.com/maps/place/Wright+State+University+Boonshoft+School+of+Medicine/@39.7803281,-84.0627279,342m/data=!3m2!1e3!4b1!4m5!3m4!1s0x88409cf97cb47823:0x2d86c0a21d9f709e!8m2!3d39.7803281!4d-84.0616384?hl=en-US">White Hall McGee Auditorium</a>.
+<p><strong>Day 1</strong> will be in Rm 101 of the <a href="//https://www.google.com/maps/place/Neuroscience+Engineering+Collaboration+Building/@39.7802763,-84.0636871,342m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0x9afc9fcfc1943290!2sNeuroscience+Engineering+Collaboration+Building!8m2!3d39.7802221!4d-84.0629249!3m4!1s0x0:0x9afc9fcfc1943290!8m2!3d39.7802221!4d-84.0629249?hl=en-US">Neuroscience Engineering Collaboration Building</a>.
+</p>
+<p><strong>Day 2</strong> will be in Rm 120 of the <a href="//https://www.google.com/maps/place/Wright+State+University+Boonshoft+School+of+Medicine/@39.7803281,-84.0627279,342m/data=!3m2!1e3!4b1!4m5!3m4!1s0x88409cf97cb47823:0x2d86c0a21d9f709e!8m2!3d39.7803281!4d-84.0616384?hl=en-US">White Hall McGee Auditorium</a>.
   </p>
 {% endif %}
 
