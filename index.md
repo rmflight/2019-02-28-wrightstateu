@@ -14,7 +14,7 @@ enddate: 2019-03-01        # machine-readable end date for the workshop in YYYY-
 instructor: ["Sarah Supp", "Robert Flight"] # boxed, comma-separated list of instructors' names as strings, like ["Kay McNulty", "Betty Jennings", "Betty Snyder"]
 helper: ["Molly Simonis"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["molly.simonis@gmail.com"]    # boxed, comma-separated list of contact email addresses for the host, lead instructor, or whoever else is handling questions, like ["marlyn.wescoff@example.org", "fran.bilas@example.org", "ruth.lichterman@example.org"]
-collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
+collaborative_notes: https://pad.carpentries.org/2019-02-28-wrightstateu            # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
 eventbrite:           # optional: alphanumeric key for Eventbrite registration, e.g., "1234567890AB" (if Eventbrite is being used)
 ---
 
@@ -98,6 +98,8 @@ and our administrator may contact you if we need any extra information.</h4>
   <a href="//www.openstreetmap.org/?mlat={{page.latlng | replace:',','&mlon='}}&zoom=16">OpenStreetMap</a>
   or
   <a href="//maps.google.com/maps?q={{page.latlng}}">Google Maps</a>.
+  <br>
+  <li>
 </p>
 <p><strong>Day 1</strong> will be in Rm 101 of the <a href="//https://www.google.com/maps/place/Neuroscience+Engineering+Collaboration+Building/@39.7802763,-84.0636871,342m/data=!3m1!1e3!4m12!1m6!3m5!1s0x0:0x9afc9fcfc1943290!2sNeuroscience+Engineering+Collaboration+Building!8m2!3d39.7802221!4d-84.0629249!3m4!1s0x0:0x9afc9fcfc1943290!8m2!3d39.7802221!4d-84.0629249?hl=en-US">Neuroscience Engineering Collaboration Building</a>.
 </p>
