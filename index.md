@@ -405,7 +405,18 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   <p><strong>If you installed Anaconda, it also has a copy of SQLite
     <a href="https://github.com/ContinuumIO/anaconda-issues/issues/307">without support to <code>readline</code></a>.
     Instructors will provide a workaround for it if needed.</strong></p>
+    
+  
 </div> {% comment %} End of 'SQLite' section. {% endcomment %}
+
+<div id="sqldb"> {% comment %} Start of 'SQLiteDB' section. {% endcomment %}
+  <h3>DB Browser for SQLite</h3>
+
+  <p>
+    To be able to interact with the SQLite databases, we will use the <a href ="https://sqlitebrowser.org/">DB Browser for SQLite</a> software. Please <a href="https://sqlitebrowser.org/dl/">download</a> and install it before the workshop. It is available for Windows, Mac, and Linux.
+  </p>
+
+</div> {% comment %} End of 'SQLiteDB' section. {% endcomment %}
 
 <div id="openrefine"> {% comment %} Start of 'OpenRefine' section. {% endcomment %}
   <h3>OpenRefine</h3>
