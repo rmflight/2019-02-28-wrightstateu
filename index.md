@@ -37,7 +37,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   are not using Eventbrite, or leave it in, since it will not be
   displayed if the 'eventbrite' field in the header is not set.
 {% endcomment %}
-<div style="width:100%; text-align:center;" ><iframe  src="https://www.eventbrite.com/countdown-widget?eid=56085029834" frameborder="0" height="196" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:8px; padding:2px 0 5px; margin:2px; width:100%; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
+<div style="width:100%; text-align:center;" ><iframe  src="https://www.eventbrite.com/countdown-widget?eid=56085029834" frameborder="0" height="180" width="195" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe><div style="font-family:Helvetica, Arial; font-size:8px; padding:0px 0 0px; margin:0px; width:100%; text-align:center;" ><a class="powered-by-eb" style="color: #ADB0B6; text-decoration: none;" target="_blank" href="http://www.eventbrite.com/">Powered by Eventbrite</a></div></div>
 {% comment %}
 <iframe  src="https://www.eventbrite.com/countdown-widget?eid=56085029834" frameborder="0" height="280px" width="100%" marginheight="0" marginwidth="0" scrolling="no" allowtransparency="true"></iframe>
 {% endcomment %}
