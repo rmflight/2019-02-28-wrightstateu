@@ -305,10 +305,17 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
   that may be useful on the
   <a href = "{{site.swc_github}}/workshop-template/wiki/Configuration-Problems-and-Solutions">Configuration Problems and Solutions wiki page</a>.
 </p>
-
-
-
-
+<p>
+  In addition to the software below, each lesson will require data to be downloaded and / or packages to install. If you are concerned about download and installation times, please click on each of the headings in the syllabus to go to that lesson page to see what data need to be downloaded.
+  </p>
+ <div id="preworkshop">
+  <h3>Installation Assistance</h3>
+  <p>
+    We <strong>strongly</strong> encourage you to install and check the software <strong>in the days leading up to the
+    workshop. If you have trouble installing the required software, there will be helpers available at
+    <strong>8:30am</strong> on both workshop days to help you get software installed on your laptop.
+  </p>
+</div>
 
 <div id="r"> {% comment %} Start of 'R' section. {% endcomment %}
   <h3>R</h3>
