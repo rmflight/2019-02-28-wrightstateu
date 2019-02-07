@@ -311,9 +311,9 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
  <div id="preworkshop">
   <h3>Installation Assistance</h3>
   <p>
-    We <strong>strongly</strong> encourage you to install and check the software <strong>in the days leading up to the
+    We <strong>strongly</strong> encourage you to install and check the software <strong>before</strong> the
     workshop. If you have trouble installing the required software, there will be helpers available at
-    <strong>8:30am</strong> on both workshop days to help you get software installed on your laptop.
+    <strong>8:30am</strong> on both workshop days to help you install the software.
   </p>
 </div>
 
