@@ -129,18 +129,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 <p id="parking">
   <strong>Parking:</strong>
   There are campus parking lots near the buildings being used. If you are not from Wright State University and need parking
-  information, please contact 
-   {% if page.email %}
-    {% for email in page.email %}
-      {% if forloop.last and page.email.size > 1 %}
-        or
-      {% else %}
-        {% unless forloop.first %}
-        ,
-        {% endunless %}
-      {% endif %}
-      <a href='mailto:{{email}}'>{{email}}</a>
-    {% endfor %}.
+  information, please contact <a href = "mailto:molly.simonis@gmail.com">molly.simonis@gmail.com</a>.
 </p>
 
 {% comment %}
