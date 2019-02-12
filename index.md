@@ -121,7 +121,7 @@ eventbrite:           # optional: alphanumeric key for Eventbrite registration, 
 
 <p id="food">
   <strong>Food:</strong>
-  Breakfast food, coffee and snacks will be provided to workshop participants on both days. 
+  Breakfast food, <strong>coffee</strong> and snacks will be provided to workshop participants on both days. 
   Lunch will not be provided, but there are many food options nearby, or there is 
   refrigeration and microwaves available for those who want to pack a lunch.
 </p>
